@@ -1,0 +1,20 @@
+REPORTE GENERAL
+
+Codigo: 5
+Nombre: arroz
+Precio: Q6
+Stock: 8
+Vendidos: 0
+----------------------
+Codigo: 4
+Nombre: frijol
+Precio: Q3.5
+Stock: 0
+Vendidos: 6
+----------------------
+Codigo: 3
+Nombre: papel
+Precio: Q176
+Stock: 2
+Vendidos: 0
+----------------------
